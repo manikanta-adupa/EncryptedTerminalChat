@@ -156,7 +156,7 @@ class PeerChat:
             algorithm=hashes.SHA256(),
             length=32,
             salt=None,
-            info=b'tchat handshake'
+            info=b'echat handshake'
         ).derive(shared_secret)
         
         fernet_key = base64.urlsafe_b64encode(derived_key)

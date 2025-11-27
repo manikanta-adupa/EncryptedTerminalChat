@@ -1,4 +1,4 @@
-# tchat - Encrypted P2P Terminal Chat
+# echat - Encrypted P2P Terminal Chat
 
 A secure, end-to-end encrypted **peer-to-peer** chat application for your terminal. Built with Python using Diffie-Hellman key exchange and AES-256 encryption.
 
