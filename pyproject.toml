@@ -8,9 +8,8 @@ version = "0.1.0"
 description = "End-to-end encrypted terminal chat using Diffie-Hellman key exchange and AES encryption"
 readme = "README.md"
 requires-python = ">=3.8"
-license = {text = "MIT"}
 authors = [
-    {name = "Your Name", email = "your@email.com"}
+    {name = "Manikanta Adupa", email = "manikantapradeep.adapa@gmail.com"}
 ]
 keywords = ["chat", "encryption", "terminal", "networking", "security", "diffie-hellman", "aes"]
 classifiers = [
@@ -18,7 +17,6 @@ classifiers = [
     "Environment :: Console",
     "Intended Audience :: Developers",
     "Intended Audience :: End Users/Desktop",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.8",
