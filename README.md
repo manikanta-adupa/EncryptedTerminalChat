@@ -14,10 +14,18 @@ A secure, end-to-end encrypted **peer-to-peer** chat application for your termin
 
 ## Installation
 
+Install directly from PyPI:
+
+```bash
+pip install echat
+```
+
+Or install from source:
+
 ```bash
 git clone https://github.com/manikanta-adupa/EncryptedTerminalChat.git
-cd echat
-pip install -e .
+cd EncryptedTerminalChat
+pip install .
 ```
 
 ## Usage

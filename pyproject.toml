@@ -38,9 +38,9 @@ dependencies = [
 echat = "echat.peer:main"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/echat"
-Repository = "https://github.com/yourusername/echat"
-Issues = "https://github.com/yourusername/echat/issues"
+Homepage = "https://github.com/manikanta-adupa/EncryptedTerminalChat"
+Repository = "https://github.com/manikanta-adupa/EncryptedTerminalChat"
+Issues = "https://github.com/manikanta-adupa/EncryptedTerminalChat/issues"
 
 [tool.setuptools.packages.find]
 where = ["."]
